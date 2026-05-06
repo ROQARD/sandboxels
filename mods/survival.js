@@ -6,6 +6,8 @@ if (!settings.survival) {
         "seeds": 9999,
         "ice": 9999,
         "cloner": 9999,
+        "diamond": 999999999999999999999999999999999999999999999999999,
+        "goldcoin": 99999999999999999999999999999999,
     }
 }
 settings.survival.cloner = 9999;
