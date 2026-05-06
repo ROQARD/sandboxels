@@ -8,7 +8,7 @@ if (!settings.survival) {
         "cloner": 9999,
     }
 }
-settings.survival.cloner = 1;
+settings.survival.cloner = 9999;
 settings.unhide = 0;
 // settings.survivalClone=null; settings.survival = null; saveSettings();
 
